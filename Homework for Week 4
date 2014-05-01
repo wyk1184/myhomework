@@ -1,0 +1,8 @@
+Group E How to handle loops in CFT?
+
+The CFG is the construction  of the CFT,there are some loops in CFG,loop is repetitive or iterative process.
+Loop has specification,which are deterministic , nondeterministic and individual loop.It is important  how to select 
+loop testing,heuristics and concrete measures boundary related problems more likely to select.For the hierarchical modeling
+,the test loop in isolation first and collapse loop as a single node in higher level models.As white box testing 
+use it more offen,such as small programs during unit testing,coarse-grain system level model.But as black box testing use
+it less.And for the loop testing we shlould find critical values.
