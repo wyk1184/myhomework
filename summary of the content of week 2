@@ -7,3 +7,16 @@ termination and QA important in all processes.QA activities need additional supp
 may bring a better function in assessment of software quality.Quality planning is an important part of
 SQE in waterfall Process which including setting quality goals、making adjustments based on feedback and
 selecting quality assurance strategies.
+
+The traditional software process (waterfall development process) include requirement, specification, design, 
+coding, testing, release. QA is exist in all phase of the software process. In the phase of requirements 
+analysis, design and coding, QA focus on defect prevention. In the phase of testing, QA focus on defect removal.
+And in the phase of release and support, QA focus on defect containment. There are some other software processes,
+such as iterative development process, spiral development process, agile development processes and XP 
+(extreme programming) etc. QA is important in all processes. A quality product is one which meets its requirements 
+and satisfies the user. SQC activities include mentoring how to produce artifacts, such as well-defined engineering 
+documents using standard templates, mentoring how to conduct standard processes, such as quality reviews, Perform 
+-process quality reviews to verify, evaluate and confirm artifacts, verify and evaluate to improve the use of 
+methods, procedures and adopted software tools.
+
+
